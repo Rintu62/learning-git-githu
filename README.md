@@ -89,6 +89,6 @@ learning-git-github/
 
 ## Git Cheat Sheet
 
-page1.png
-page2.png
+![Page 1](images/page1.png)
 
+![Page 2](images/pgae2.png)
