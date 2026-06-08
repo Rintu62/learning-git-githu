@@ -83,6 +83,11 @@ learning-git-github/
     ├── basic-workflow.txt
     ├── branching-example.txt
     └── collaboration-example.txt
+
+
+## Git Cheat Sheet
+
+![Git Cheat Sheet](./page1.png)
 <img width="1012" height="990" alt="Screenshot 2026-06-08 171832" src="https://github.com/user-attachments/assets/60114370-506a-4a28-bbd3-3a18d7580213" />
 
 
